@@ -1,0 +1,49 @@
+#o
+{
+  display: inline;  
+  animation: normal 1s apparution;
+}
+
+#k
+{
+
+}
+
+#o1
+{
+
+}
+
+#i
+{
+
+}
+
+#c
+{
+
+}
+
+#h
+{
+
+}
+
+#e
+{
+
+}
+
+#l
+{
+
+}
+
+@keyframes apparution
+{
+    from{
+        display: inline;
+        opacity: 1;
+    }
+  
+}
